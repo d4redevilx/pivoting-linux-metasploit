@@ -1,4 +1,4 @@
-# Pivoting en Linux usando Mestasploit
+# Pivoting en Linux usando Metasploit
 
 ![Laboratorio de prueba](/Pivoting-Linux.png)
 
